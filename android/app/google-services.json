@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "306698802865",
+    "firebase_url": "https://iauro-cb598.firebaseio.com",
+    "project_id": "iauro-cb598",
+    "storage_bucket": "iauro-cb598.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306698802865:android:f5af1228444fd8b579f490",
+        "android_client_info": {
+          "package_name": "com.example.iauro_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306698802865-mgir9js0rn3qagvq71a80uvtijo8jkoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbbGQrQLj_jy-yci2e8GAc51syO5vBUPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306698802865-mgir9js0rn3qagvq71a80uvtijo8jkoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
